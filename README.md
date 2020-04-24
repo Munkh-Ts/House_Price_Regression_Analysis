@@ -2,7 +2,7 @@
 
 Munkhjargal Tsogtsaikhan | Email: tsmj2013@gmail.com | linkedIn: https://www.linkedin.com/in/munkhjargal1/
 
-This project is a part of the sprinfboard capstone two project.
+This project is a part of the springboard capstone two project.
 
 Intro
 ---
